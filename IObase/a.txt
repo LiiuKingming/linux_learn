@@ -1,0 +1,8 @@
+total 24
+-rw-rw-r-- 1 linuxlqm1 linuxlqm1   50 Dec  8 16:36 a.t
+-rw-rw-r-- 1 linuxlqm1 linuxlqm1    0 Dec  8 16:36 a.txt
+-rw-rw-r-- 1 linuxlqm1 linuxlqm1   40 Dec  8 15:57 makefile
+-rwxrwxr-x 1 linuxlqm1 linuxlqm1 9088 Dec  8 16:35 minishellIO
+-rwxrwxr-- 1 linuxlqm1 linuxlqm1 2619 Dec  8 16:35 minishellIO.c
+-rw-rw-r-- 1 linuxlqm1 linuxlqm1    0 Dec  8 16:32 s
+-rw-rw-r-- 1 linuxlqm1 linuxlqm1    0 Dec  8 16:32 wd
